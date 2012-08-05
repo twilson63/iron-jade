@@ -1,0 +1,19 @@
+{
+  "name": "iron-jade",
+  "version": "0.0.1",
+  "description": "A flat-iron jade template project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "Tom Wilson",
+  "license": "MIT",
+  "dependencies": {
+    "union": "~0.3.4",
+    "jade.plugin": "~0.1.2",
+    "flatiron": "~0.2.6",
+    "ecstatic": "~0.1.6"
+  }
+}
